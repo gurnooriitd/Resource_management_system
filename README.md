@@ -13,10 +13,10 @@ This project simulates a distributed system for efficiently scheduling and manag
 ## Files
 Download the files and run the project directly:
 
-- `scheduler.py`: Manages task distribution and scheduling logic.
-- `processor.py`: Defines the processing unit and task queue management.
+- `strawhat.py`: Manages task distribution and scheduling logic.
+- `crewmate.py`: Defines the processing unit and task queue management.
 - `heap.py`: Implements the heap structure for prioritizing tasks.
-- `task.py`: Defines task properties like ID, size, and arrival time.
+- `main.py`: Defines task properties like ID, size, and arrival time.
 
 ## Usage
 1. Download the project files and place them in a single directory.
